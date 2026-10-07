@@ -11,3 +11,5 @@ This repository is for practicing Git and GitHub.
 - GitHub collaboration
 
 This is my first practice pull request.
+
+This update demonstrates a GitHub pull request workflow.
